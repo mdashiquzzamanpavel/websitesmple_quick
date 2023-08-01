@@ -1,0 +1,7 @@
+color hexa code:
+nb: #0f2656
+sb: #1292ff
+pinkish text: #f15767
+1st box: #fdebed
+2nd box: #ebf9f4
+3rd box: #fff7e8
